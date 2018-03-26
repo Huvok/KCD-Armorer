@@ -1,0 +1,2 @@
+# KCD-Armorer
+Kingdom Come: Deliverance is a videogame developed by Warhorse Studios. It is a medieval game based on the Kingdom of Bohemia and, while representing perfectly a great amount of elements from the era, some users have developed their own modifications (mods) to enhance some elements. One of them is the armor defense rating which determines the amount of damage the armor piece wan withstand. This WPF application is a tool to modify each armor resistance so the user can get more immersive and game-enhancing armors.
