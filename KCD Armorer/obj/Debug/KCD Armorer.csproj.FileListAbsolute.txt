@@ -1,0 +1,14 @@
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer.csprojResolveAssemblyReference.cache
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\MainWindow.g.cs
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\App.g.cs
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer_MarkupCompile.cache
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer_MarkupCompile.lref
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\bin\Debug\KCD Armorer.exe.config
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\bin\Debug\KCD Armorer.exe
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\bin\Debug\KCD Armorer.pdb
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\MainWindow.baml
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer.g.resources
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD_Armorer.Properties.Resources.resources
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer.csproj.GenerateResource.Cache
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer.exe
+c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer.pdb

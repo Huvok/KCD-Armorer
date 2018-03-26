@@ -1,0 +1,38 @@
+﻿<Window x:Class="KCD_Armorer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KCD_Armorer"
+        mc:Ignorable="d"
+        Title="KCD Armorer by Huvok" Height="600" Width="400">
+
+    <Border Padding="10">
+        <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" Margin="10 10 10 10" TextWrapping="Wrap" Text="Thanks for using KCD Armorer. Here you can tweak the values used to define defense for the armors on the game." HorizontalAlignment="Stretch"/>
+            </Grid>
+
+            <Separator/>
+            <TextBlock Text="Please select your armor.xml file" FontWeight="Bold" Margin="10 10"/>
+            <TextBox Margin="10 0 10 10" Name="txtBoxFilePath" HorizontalAlignment="Stretch"/>
+            <Button Margin="10 0 10 10" Content="Browse" Name="BtnBrowseFile" HorizontalAlignment="Stretch" Click="voidBtnBrowseFile_Click" />
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Margin="0 0 10 0" Grid.Column="0" Content="Apply"/>
+                <Button Grid.Column="1" Content="Reset"/>
+                <Button Margin="10 0 0 0" Grid.Column="2" Content="Refresh"/>
+            </Grid>
+        </StackPanel>
+    </Border>
+</Window>
