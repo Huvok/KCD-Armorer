@@ -1,4 +1,3 @@
-c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer.csprojResolveAssemblyReference.cache
 c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\MainWindow.g.cs
 c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\App.g.cs
 c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer_MarkupCompile.cache

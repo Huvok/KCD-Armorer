@@ -18,6 +18,79 @@
             </Grid>
 
             <Separator/>
+            <TextBlock Text="Plate Armor" FontWeight="Bold" Margin="10 10"/>
+            <GroupBox Margin="5 0 5 5" Header="Body Armor">
+                <StackPanel>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="4*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Slider Margin="10 10 10 0" Grid.Column="0" Minimum="-1" Maximum="1" TickPlacement="BottomRight" TickFrequency=".1" Name="slPlateBody" />
+                        <TextBox Margin="10 5" Grid.Column="1" Text="{Binding ElementName=slPlateBody, Path=Value, UpdateSourceTrigger=PropertyChanged, StringFormat={}{0:P2}}" TextAlignment="Center" VerticalContentAlignment="Center" />
+                    </Grid>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Margin="5 0 5 5" Header="Head Armor">
+                <StackPanel>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="4*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Slider Margin="10 10 10 0" Grid.Column="0" Minimum="-1" Maximum="1" TickPlacement="BottomRight" TickFrequency=".1" Name="slPlateHead" />
+                        <TextBox Margin="10 5" Grid.Column="1" Text="{Binding ElementName=slPlateHead, Path=Value, UpdateSourceTrigger=PropertyChanged, StringFormat={}{0:P2}}" TextAlignment="Center" VerticalContentAlignment="Center" />
+                    </Grid>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Margin="5 0 5 5" Header="Arm Armor">
+                <StackPanel>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="4*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Slider Margin="10 10 10 0" Grid.Column="0" Minimum="-1" Maximum="1" TickPlacement="BottomRight" TickFrequency=".1" Name="slPlateArm" />
+                        <TextBox Margin="10 5" Grid.Column="1" Text="{Binding ElementName=slPlateArm, Path=Value, UpdateSourceTrigger=PropertyChanged, StringFormat={}{0:P2}}" TextAlignment="Center" VerticalContentAlignment="Center" />
+                    </Grid>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Margin="5 0 5 5" Header="Leg Armor">
+                <StackPanel>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="4*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Slider Margin="10 10 10 0" Grid.Column="0" Minimum="-1" Maximum="1" TickPlacement="BottomRight" TickFrequency=".1" Name="slPlateLeg" />
+                        <TextBox Margin="10 5" Grid.Column="1" Text="{Binding ElementName=slPlateLeg, Path=Value, UpdateSourceTrigger=PropertyChanged, StringFormat={}{0:P2}}" TextAlignment="Center" VerticalContentAlignment="Center" />
+                    </Grid>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Margin="5 0 5 5" Header="Hand Armor">
+                <StackPanel>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="4*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Slider Margin="10 10 10 0" Grid.Column="0" Minimum="-1" Maximum="1" TickPlacement="BottomRight" TickFrequency=".1" Name="slPlateHand" />
+                        <TextBox Margin="10 5" Grid.Column="1" Text="{Binding ElementName=slPlateHand, Path=Value, UpdateSourceTrigger=PropertyChanged, StringFormat={}{0:P2}}" TextAlignment="Center" VerticalContentAlignment="Center" />
+                    </Grid>
+                </StackPanel>
+            </GroupBox>
+
+            <Separator/>
+            
             <TextBlock Text="Please select your armor.xml file" FontWeight="Bold" Margin="10 10"/>
             <TextBox Margin="10 0 10 10" Name="txtBoxFilePath" HorizontalAlignment="Stretch"/>
             <Button Margin="10 0 10 10" Content="Browse" Name="BtnBrowseFile" HorizontalAlignment="Stretch" Click="voidBtnBrowseFile_Click" />
