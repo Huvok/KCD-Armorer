@@ -11,3 +11,16 @@ c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj
 c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer.csproj.GenerateResource.Cache
 c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer.exe
 c:\users\huvok\documents\visual studio 2017\Projects\KCD Armorer\KCD Armorer\obj\Debug\KCD Armorer.pdb
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\bin\Debug\KCD Armorer.exe.config
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\bin\Debug\KCD Armorer.exe
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\bin\Debug\KCD Armorer.pdb
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\obj\Debug\MainWindow.g.cs
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\obj\Debug\App.g.cs
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\obj\Debug\KCD Armorer_MarkupCompile.cache
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\obj\Debug\KCD Armorer_MarkupCompile.lref
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\obj\Debug\MainWindow.baml
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\obj\Debug\KCD Armorer.g.resources
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\obj\Debug\KCD_Armorer.Properties.Resources.resources
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\obj\Debug\KCD Armorer.csproj.GenerateResource.Cache
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\obj\Debug\KCD Armorer.exe
+C:\Users\Huvok\Documents\GitHub\KCD-Armorer\KCD Armorer\obj\Debug\KCD Armorer.pdb
